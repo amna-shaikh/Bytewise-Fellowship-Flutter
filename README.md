@@ -36,3 +36,20 @@ WEEK- 2 LEARNING
 •	Why use SM? 
 
 •	Because when something is change then whole UI builds but we want to build only specific part.
+WEEK3 - LEARNING 
+
+Learn about different types of packages
+
+What is Pub dev
+
+How to use the packages.
+
+Import the packaes and use them in the project.
+
+FIREBASE AUTHENTICATION
+
+Setup of Firebase with Project
+
+User sign IN/ Sign Up process
+
+Google Authentication.
