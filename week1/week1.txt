@@ -1,0 +1,2 @@
+In week1 we learn about the Bytewise felloship Training and having meeting with our Flutter Lead.
+We have told about how are tasks are done and how we will submit them.
