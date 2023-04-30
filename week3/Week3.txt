@@ -1,0 +1,12 @@
+WEEK3 - LEARNING
+Learn about different types of packages
+Package is basically a group of file which can use in making our code more efficient 
+What is Pub dev
+A website where all dart packages are available
+How to use the packages.
+Like how we can use the packages in our codes. how to import them
+Import the packaes and use them in the project.
+FIREBASE AUTHENTICATION
+Setup of Firebase with Project
+User sign IN/ Sign Up process
+Google Authentication
