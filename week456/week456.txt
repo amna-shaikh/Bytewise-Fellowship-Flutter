@@ -1,0 +1,29 @@
+Types of Animations
+Explicit - are more complex to create
+Explicit Animations give us more control.
+Implicit - are easy to create using built in animations or also custom animation.
+
+Advance UI in flutter 
+In the beinning we only use some most common widgets but for Advance UI you have to use flutter advance topics for beautiful UI. Like in E-commerce app Advance Ui is required and other banking and Taxi Apps like Caream , In driver the one screen takes a lot of time.
+
+Platform Integration 
+Flutter allows one codebase for  multiple platforms like ,
+Android.
+IOS
+Web
+MacOS
+Desktop
+Windows.
+
+Flutter Optimization 
+For using the code optimize and smooth run flow and also maintain the code effeciency
+Split large widgets into smaller widgets
+Avoid rebuilding unnecessary widgets inside Animated Builder
+Minimize use of opacity and clipping
+setState method is used only when necessary
+Make use of constant widgets
+Load list items efficiently — and on-demand
+Make use of async/await
+Reduce APK size
+
+
