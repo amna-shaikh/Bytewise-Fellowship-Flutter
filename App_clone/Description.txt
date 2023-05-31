@@ -1,0 +1,5 @@
+In this week we have work on the project of some UI Clone which we have use regularly.
+I have made Food delivery app.
+The app have many functionalities like search , wishlist , Add to cart , checkout options.
+For Backend I have used, Firebase Integration
+And state management is Provider.
