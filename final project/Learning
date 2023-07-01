@@ -1,0 +1,27 @@
+Hi there, 
+I want to share my experience at Bytewise Fellowship as a Flutter fellow. Basically, Bytewise Limited helps in developing individuals to revolutionized IT Industry to provide sustainable solutions. It offers every year to provide 6 months fellowship programs to individuals to enhance their skills in different tech programs.
+I have been learning flutter since September 2022, but when I join this fellowship, it helps me to enhance my skills and explore variety of Advance topics Here is summary of my learning:
+Flutter is a mobile app development framework that allows developers to build high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+Flutter topics:
+Code Structure:
+1.	Learn about basic project structure (MVVM) means how we can organize the different layers like data layer, domain layer, UI. 
+2.	It basically helps us to find if any error occurs then we can easily figure out.
+Animations:
+1.	They add beautiful design to UI. Easily help user to inform about many things.
+State Management:
+1.	Learn various approaches for managing and updating state in Flutter apps.
+2.	Provider, Riverpord, getx
+Working with APIS.
+1.	Learn working with different APIS and how to handle the complex JSON.
+2.	How to integrate complex API into flutter Application.
+UI/UX Design:
+1.	Gain knowledge of UI design principles and best practices to create visually appealing and user-friendly interfaces in Flutter. 
+2.	Learn about material design, adaptive layouts, theming, and responsive design.
+Firebase:
+Firebase is a powerful backend platform provided by Google that offers a suite of cloud-based services and tools to assist developers in building mobile and web applications. 
+1.	Firebase Authentication we have login and logout system user. Also, I have added another option of logging which is Sign in with google.
+2.	Firebase Firestore through this we have stored the user information like in food app I have store the user info, what products they added to cart, added to Wishlist, and payment details. 
+3.	Cloud Storage I have used for storing the user images, profile pictures. Like in blog app I have used firebase storge where user see other user blog, upload their blog in firebase storage.
+Overall, I have learned many things like hive database and efficient programming.
+
+
